@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "threeKingdoms/libs/cocos2dx/layers_scenes_transitions_nodes/CCLayer.cpp"
+            timestampString = "416811222.739867"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "445"
+            endingLineNumber = "445"
+            landmarkName = "CCLayer::ccTouchesBegan(CCSet *pTouches, CCEvent *pEvent)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Classes/loginpp/PPLoginFacade.mm"
+            timestampString = "416812785.455585"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "PPLoginFacade::showLoginView()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PPLoginFacade::showLoginView()"
+                  moduleName = "threeKingdomsPP"
+                  urlString = "file://localhost/Users/duomai/Movies/%E4%B8%89%E5%9B%BDclient/cocos2d-2.1rc0-x-2.1.3/threekingdoms/Classes/loginpp/PPLoginFacade.mm"
+                  timestampString = "416906954.888811"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "2">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PPLoginFacade::showLoginView()"
+                  moduleName = "threeKingdomsPP"
+                  urlString = "file://localhost/Users/duomai/Movies/%E4%B8%89%E5%9B%BDclient/cocos2d-2.1rc0-x-2.1.3/threekingdoms/Classes/loginpp/PPLoginFacade.mm"
+                  timestampString = "416906954.889122"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "8">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Classes/loginpp/PPLoginFacade.mm"
+            timestampString = "416812786.027923"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "PPLoginFacade::showGameCenterView()"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PPLoginFacade::showGameCenterView()"
+                  moduleName = "threeKingdomsPP"
+                  urlString = "file://localhost/Users/duomai/Movies/%E4%B8%89%E5%9B%BDclient/cocos2d-2.1rc0-x-2.1.3/threekingdoms/Classes/loginpp/PPLoginFacade.mm"
+                  timestampString = "416906954.889423"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "2">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PPLoginFacade::showGameCenterView()"
+                  moduleName = "threeKingdomsPP"
+                  urlString = "file://localhost/Users/duomai/Movies/%E4%B8%89%E5%9B%BDclient/cocos2d-2.1rc0-x-2.1.3/threekingdoms/Classes/loginpp/PPLoginFacade.mm"
+                  timestampString = "416906954.88968"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "8">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
