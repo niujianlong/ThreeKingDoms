@@ -1,8 +1,7 @@
-//
+﻿//
 //  ComboLayer.h
 //  threeKingdoms
-//
-//  Created by .m on 14-1-14.
+//  Created by sma11case on 14-1-14.
 //
 //
 

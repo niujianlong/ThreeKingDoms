@@ -1,8 +1,7 @@
-//
+﻿//
 //  ContactUs.h
 //  threeKingdoms
-//
-//  Created by .m on 14-3-1.
+//  Created by sma11case on 14-3-1.
 //
 //
 

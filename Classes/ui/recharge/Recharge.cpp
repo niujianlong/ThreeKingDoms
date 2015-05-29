@@ -1,8 +1,7 @@
-//
+﻿//
 //  Recharge.cpp
 //  threeKingdoms
-//
-//  Created by .m on 14-2-7.
+//  Created by sma11case on 14-2-7.
 //
 //
 

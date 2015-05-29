@@ -1,4 +1,4 @@
-#include "SneakyJoystick.h"
+﻿#include "SneakyJoystick.h"
 
 using namespace cocos2d;
 

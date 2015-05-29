@@ -1,4 +1,4 @@
-//
+﻿//
 //  IAPHelper.h
 //  IAPTest
 #import <UIKit/UIKit.h>

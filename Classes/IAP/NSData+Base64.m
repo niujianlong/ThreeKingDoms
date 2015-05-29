@@ -1,8 +1,7 @@
-//
+﻿//
 //  NSData+Base64.m
 //  base64
-//
-//  Created by Matt Gallagher on 2009/06/03.
+//  Created by sma11case Gallagher on 2009/06/03.
 //  Copyright 2009 Matt Gallagher. All rights reserved.
 //
 //  This software is provided 'as-is', without any express or implied

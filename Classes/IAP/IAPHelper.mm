@@ -1,4 +1,4 @@
-//
+﻿//
 //  IapLayer.m
 //
 #include "cocos2d.h"

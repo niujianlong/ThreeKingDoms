@@ -1,4 +1,4 @@
-//
+﻿//
 //  NSData+Base64.h
 //  base64
 //

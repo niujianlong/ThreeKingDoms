@@ -1,8 +1,7 @@
-//
+﻿//
 //  FightUI.h
 //  threeKingdoms
-//
-//  Created by .m on 13-12-27.
+//  Created by sma11case on 13-12-27.
 //
 //
 

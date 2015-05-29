@@ -1,8 +1,7 @@
-//
+﻿//
 //  IAPFacade.cpp
 //  threeKingdoms
-//
-//  Created by lee song on 14-2-28.
+//  Created by sma11case song on 14-2-28.
 //
 //
 

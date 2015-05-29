@@ -1,8 +1,7 @@
-//
+﻿//
 //  TipsManager.h
 //  threeKingdoms
-//
-//  Created by .m on 14-2-24.
+//  Created by sma11case on 14-2-24.
 //
 //
 

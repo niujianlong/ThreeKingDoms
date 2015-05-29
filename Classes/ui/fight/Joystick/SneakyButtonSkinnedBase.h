@@ -1,4 +1,4 @@
-#ifndef __SNEAKY_BUTTON_SKINNED_H__
+﻿#ifndef __SNEAKY_BUTTON_SKINNED_H__
 #define __SNEAKY_BUTTON_SKINNED_H__
 
 #include "SneakyButton.h"

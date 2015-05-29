@@ -1,4 +1,4 @@
-#ifndef __SNEAKY_JOYSTICK_H__
+﻿#ifndef __SNEAKY_JOYSTICK_H__
 #define __SNEAKY_JOYSTICK_H__
 
 #include "cocos2d.h"

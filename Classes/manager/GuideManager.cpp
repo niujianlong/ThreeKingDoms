@@ -1,8 +1,7 @@
-//
+﻿//
 //  GuideManager.cpp
 //  threeKingdoms
-//
-//  Created by .m on 14-2-23.
+//  Created by sma11case on 14-2-23.
 //
 //
 

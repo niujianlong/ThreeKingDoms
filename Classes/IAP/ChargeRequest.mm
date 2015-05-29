@@ -1,8 +1,7 @@
-//
+﻿//
 //  ChargeRequest.cpp
 //  legendofheros
-//
-//  Created by lee song on 13-11-8.
+//  Created by sma11case song on 13-11-8.
 //
 //
 

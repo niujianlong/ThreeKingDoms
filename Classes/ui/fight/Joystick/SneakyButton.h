@@ -1,4 +1,4 @@
-#ifndef __SNEAKY_BUTTON_H__
+﻿#ifndef __SNEAKY_BUTTON_H__
 #define __SNEAKY_BUTTON_H__
 
 #include "cocos2d.h"

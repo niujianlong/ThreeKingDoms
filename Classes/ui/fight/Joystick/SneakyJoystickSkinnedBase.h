@@ -1,4 +1,4 @@
-#ifndef __JOYSTICK_SKINNED_H__
+﻿#ifndef __JOYSTICK_SKINNED_H__
 #define __JOYSTICK_SKINNED_H__
 
 #include "cocos2d.h"

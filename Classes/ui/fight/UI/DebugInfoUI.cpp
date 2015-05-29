@@ -1,8 +1,7 @@
-//
+﻿//
 //  DebugInfoUI.cpp
 //  threeKingdoms
-//
-//  Created by .m on 14-1-4.
+//  Created by sma11case on 14-1-4.
 //
 //
 

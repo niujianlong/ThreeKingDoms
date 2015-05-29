@@ -1,8 +1,7 @@
-//
+﻿//
 //  TaskRule.h
 //  threeKingdoms
-//
-//  Created by .m on 14-2-19.
+//  Created by sma11case on 14-2-19.
 //
 //
 

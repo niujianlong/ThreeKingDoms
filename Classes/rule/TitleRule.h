@@ -1,8 +1,7 @@
-//
+﻿//
 //  TitleRule.h
 //  threeKingdoms
-//
-//  Created by .m on 13-12-31.
+//  Created by sma11case on 13-12-31.
 //
 //
 

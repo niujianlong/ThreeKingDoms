@@ -1,8 +1,7 @@
-//
+﻿//
 //  SQLManager.cpp
 //  threeKingdoms
-//
-//  Created by .m on 14-1-3.
+//  Created by sma11case on 14-1-3.
 //
 //
 

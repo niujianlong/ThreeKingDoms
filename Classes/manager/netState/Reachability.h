@@ -1,4 +1,4 @@
-/*
+﻿/*
      File: Reachability.h
  Abstract: Basic demonstration of how to use the SystemConfiguration Reachablity APIs.
   Version: 3.5

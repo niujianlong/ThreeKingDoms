@@ -1,4 +1,4 @@
-#include "SneakyJoystickSkinnedBase.h"
+﻿#include "SneakyJoystickSkinnedBase.h"
 
 using namespace cocos2d;
 
