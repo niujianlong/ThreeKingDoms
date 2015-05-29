@@ -1,7 +1,7 @@
 ﻿//
 //  NoticeManager.h
 //  threeKingdoms
-//  Created by sma11case on 14-1-16.
+//  Created by sma11case 14-1-16.
 //
 //
 

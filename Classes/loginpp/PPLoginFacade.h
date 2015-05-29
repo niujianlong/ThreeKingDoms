@@ -1,7 +1,7 @@
 ﻿//
 //  PPLoginFacade.h
 //  legendofheros
-//  Created by sma11case song on 13-11-15.
+//  Created by sma11case 13-11-15.
 //
 //
 

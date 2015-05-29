@@ -1,7 +1,7 @@
 ﻿//
 //  SoundManager.h
 //  threeKingdoms
-//  Created by sma11case on 13-12-25.
+//  Created by sma11case 13-12-25.
 //
 //
 

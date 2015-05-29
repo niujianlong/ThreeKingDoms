@@ -1,7 +1,7 @@
 ﻿//
 //  JniManager.h
 //  threeKingdoms
-//  Created by sma11case on 14-2-28.
+//  Created by sma11case 14-2-28.
 //
 //
 

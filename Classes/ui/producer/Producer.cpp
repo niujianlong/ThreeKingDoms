@@ -1,7 +1,7 @@
 ﻿//
 //  Producer.cpp
 //  threeKingdoms
-//  Created by sma11case on 14-2-23.
+//  Created by sma11case 14-2-23.
 //
 //
 

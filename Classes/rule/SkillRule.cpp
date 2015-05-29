@@ -1,7 +1,7 @@
 ﻿//
 //  SkillRule.cpp
 //  threeKingdoms
-//  Created by sma11case on 13-12-30.
+//  Created by sma11case 13-12-30.
 //
 //
 

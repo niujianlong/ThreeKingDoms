@@ -1,7 +1,7 @@
 ﻿ //
 //  ViewController.m
 //  SDK_DEMO
-//  Created by sma11case  mr on 2/3/13.
+//  Created by sma11case 2/3/13.
 //  Copyright (c) 2013 Net Fly. All rights reserved.
 //
 

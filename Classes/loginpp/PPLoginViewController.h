@@ -1,7 +1,7 @@
 ﻿//
 //  ViewController.h
 //  SDK_DEMO
-//  Created by sma11case  mr on 2/3/13.
+//  Created by sma11case 2/3/13.
 //  Copyright (c) 20  2 13 张熙文. All rights reserved.
 //
 

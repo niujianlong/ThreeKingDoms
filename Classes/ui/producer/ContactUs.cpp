@@ -1,7 +1,7 @@
 ﻿//
 //  ContactUs.cpp
 //  threeKingdoms
-//  Created by sma11case on 14-3-1.
+//  Created by sma11case 14-3-1.
 //
 //
 

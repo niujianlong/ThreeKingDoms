@@ -1,7 +1,7 @@
 ﻿//
 //  NoticeBox.cpp
 //  threeKingdoms
-//  Created by sma11case on 14-2-8.
+//  Created by sma11case 14-2-8.
 //
 //
 

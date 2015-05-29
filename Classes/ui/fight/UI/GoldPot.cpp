@@ -1,7 +1,7 @@
 ﻿//
 //  GoldPot.cpp
 //  threeKingdoms
-//  Created by sma11case on 14-2-12.
+//  Created by sma11case 14-2-12.
 //
 //
 

@@ -1,7 +1,7 @@
 ﻿//
 //  ParticleManager.cpp
 //  threeKingdoms
-//  Created by sma11case on 14-1-2.
+//  Created by sma11case 14-1-2.
 //
 //
 

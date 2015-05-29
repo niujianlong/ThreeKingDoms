@@ -1,7 +1,7 @@
 ﻿//
 //  CommonLoading.h
 //  threeKingdoms
-//  Created by sma11case on 14-3-5.
+//  Created by sma11case 14-3-5.
 //
 //
 

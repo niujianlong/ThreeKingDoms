@@ -1,7 +1,7 @@
 ﻿//
 //  threeKingdomsAppDelegate.h
 //  threeKingdoms
-//  Created by sma11case on 13-12-24.
+//  Created by sma11case 13-12-24.
 //  Copyright __MyCompanyName__ 2013年. All rights reserved.
 //
 

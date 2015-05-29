@@ -1,7 +1,7 @@
 ﻿//
 //  ModelRule.h
 //  threeKingdoms
-//  Created by sma11case on 13-12-26.
+//  Created by sma11case 13-12-26.
 //
 //
 
